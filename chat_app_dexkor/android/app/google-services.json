@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "52729175376",
+    "project_id": "chatdexkor",
+    "storage_bucket": "chatdexkor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52729175376:android:be753d739a63c151296055",
+        "android_client_info": {
+          "package_name": "com.example.chat_app_dexkor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVD4jsmqrVgkS6hb1SzPtKST8J_iSUcr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
