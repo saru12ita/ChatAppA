@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "52729175376",
+    "project_id": "chatdexkor",
+    "storage_bucket": "chatdexkor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52729175376:android:be753d739a63c151296055",
+        "android_client_info": {
+          "package_name": "com.example.chat_app_dexkor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52729175376-5ktqh8io8k1r5c5povje1g6l85lcieg0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chat_app_dexkor",
+            "certificate_hash": "6ff00beae08cc576c8662461e42d8703a8efc284"
+          }
+        },
+        {
+          "client_id": "52729175376-f1oqcclccceram25mvmlcbhkgasi67pl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVD4jsmqrVgkS6hb1SzPtKST8J_iSUcr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52729175376-f1oqcclccceram25mvmlcbhkgasi67pl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
